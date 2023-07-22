@@ -1,0 +1,5 @@
+0 file0 0 0 0 0
+1 file1 1 1 1 1
+0 file2 1
+1 file3 1 2 3
+0 file4 1 2 3 4 5
